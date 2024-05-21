@@ -1,1 +1,5 @@
-# Web-scraping-study
+# Web_study
+
+2024.05.21 ~
+
+web 관련 진행 내역을 기록합니다.
